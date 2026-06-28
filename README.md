@@ -48,7 +48,6 @@ A custom-designed hardware interface with a built-in microphone array, NeoPixel 
 <img src="assets/ESP32 hardware.jpeg" alt="ESP32 Hardware" width="600"/>
 The underlying physical layer utilizing advanced microcontrollers to handle sensor data processing, local automation, and device triggering.
 
----
 
 ---
 
