@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/app-icon.jpg" alt="Kairo Logo" width="150"/>
+  <img src="assets/icon.png" alt="Kairo Logo" width="150"/>
   <h1>KAIRO Smart Ecosystem</h1>
   <p><b>Advanced AI-Powered Network Architecture & IoT Hub</b></p>
   
