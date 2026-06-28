@@ -55,7 +55,7 @@ The underlying physical layer utilizing advanced microcontrollers to handle sens
 ## 📱 The Unified Control Interface
 <img src="assets/kairo-app-mockups.png" alt="Kairo Mobile App Mockups" width="100%"/>
 
-Kairo is managed through a sleek, intuitive mobile control dashboard (built via Google AI Studio). This interface provides total transparency and control over the entire ecosystem:
+Kairo is managed through a sleek, intuitive mobile control dashboard This interface provides total transparency and control over the entire ecosystem:
 1. **Central Dashboard:** Real-time system health, Zero-Trust network status, and an instant 'Ask Kairo' voice command input.
 2. **Device Hub:** Direct control over connected hardware like the Voice Satellite (volume, LED colors) and IoT sensors, plus status monitoring for remote endpoints.
 3. **AI Insights & Memory:** View recent automated actions, contextual recalls from Supabase memory, and AI-driven system optimizations.
