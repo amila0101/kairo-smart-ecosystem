@@ -53,7 +53,7 @@ The underlying physical layer utilizing advanced microcontrollers to handle sens
 ---
 
 ## 📱 The Unified Control Interface
-<img src="assets/kairo-app-mockups.png" alt="Kairo Mobile App Mockups" width="100%"/>
+<img src="assets/kairo-app-showcase.png" alt="Kairo Mobile App Mockups" width="100%"/>
 
 Kairo is managed through a sleek, intuitive mobile control dashboard This interface provides total transparency and control over the entire ecosystem:
 1. **Central Dashboard:** Real-time system health, Zero-Trust network status, and an instant 'Ask Kairo' voice command input.
